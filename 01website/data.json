@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "#2 NUGGETS at #7 LAKERS | FULL GAME 4 HIGHLIGHTS | April 27, 2024 - NBA",
+        "description": "Never miss a moment with the latest news, trending stories and highlights to bring you closer to your favorite players and teams.Download now: https://link.n...",
+        "url": "https://www.youtube.com/watch?v=WaxkGHsB-NU",
+        "urlToImage": "https://i.ytimg.com/vi/WaxkGHsB-NU/maxresdefault.jpg",
+        "publishedAt": "2024-04-28T03:08:31Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "KTLA Los Angeles"
+        },
+        "author": "Jas Kang",
+        "title": "LAPD issues city-wide tactical alert due to disturbance at USC campus - KTLA Los Angeles",
+        "description": "The Los Angeles Police Department has issued a city-wide tactical alert in response to a disturbance at the University of Southern California campus Saturday night. The school issued a statement at 8:15 p.m. saying the University Park campus is temporarily cl…",
+        "url": "https://ktla.com/news/local-news/lapd-issues-city-wide-tactical-alert-due-to-disturbance-at-usc-campus/",
+        "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2020/08/GettyImages-1206596174.jpg?w=1280",
+        "publishedAt": "2024-04-28T03:00:18Z",
+        "content": "The Los Angeles Police Department has issued a city-wide tactical alert in response to a disturbance at the University of Southern California campus Saturday night.\r\nThe school issued a statement at … [+2912 chars]"
+      },
+      {
+        "source": {
+          "id": "nfl-news",
+          "name": "NFL News"
+        },
+        "author": null,
+        "title": "2024 NFL Draft: Final quick-snap grades for all 32 teams - NFL.com",
+        "description": "Chad Reuter reveals his final quick-snap grades for all 32 teams based on their decisions from all three days of the 2024 NFL Draft.",
+        "url": "https://www.nfl.com/news/2024-nfl-draft-final-quick-snap-grades-for-all-32-teams",
+        "urlToImage": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/qtboy22s60scg4hsngdi",
+        "publishedAt": "2024-04-28T02:50:00Z",
+        "content": "Draft picks\r\nDay 1 grade:B\r\nDay 2 grade:B\r\nDay 3 grade: B-\r\nAnalysis: Morgan's pass-protection skills give him a chance to replace three-time Pro Bowler David Bakhtiari\" data-link=\"/players/david-bak… [+1043 chars]"
+      }
+    ]
+  }
